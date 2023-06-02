@@ -1,3 +1,5 @@
+# youtube_buddy.py
+#
 # YouTube Buddy sends friendly email notifications when your favorite
 # YouTube channels upload new videos.
 # Copyright (C) 2023 Matthew Mehrtens
@@ -9,7 +11,7 @@
 #
 # This program is distributed in the hope that it will be useful, but
 # WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
 # General Public License for more details.
 #
 # You should have received a copy of the GNU General Public License
